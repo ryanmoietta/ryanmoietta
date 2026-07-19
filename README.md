@@ -1,4 +1,4 @@
-# RYAN MOIETTA 𝘾𝙍𝙔𝙋𝙏𝙀𝘿𝘾𝘼𝙎𝙃𝙀𝙒
+# RYAN MOIETTA / 𝘾𝙍𝙔𝙋𝙏𝙀𝘿𝘾𝘼𝙎𝙃𝙀𝙒
 
 ## Offensive Security | Red Team Focus
 
