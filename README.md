@@ -12,4 +12,21 @@ I build and operate controlled lab environments to simulate real-world attack sc
 - Lateral Movement
 - Post-Exploitation Techniques
 
-I am committed to continuous learning and mastering red team methodologies to identify vulnerabilities before they are exploited in the world.
+                              __
+                         _,-;''';`'-,.
+                      _/',  `;  `;    `\
+      ,        _..,-''    '   `  `      `\
+     | ;._.,,-' .| |,_        ,,          `\
+     | `;'      ;' ;, `,   ; |    '  '  .   \
+     `; __`  ,'__  ` ,  ` ;  |      ;        \
+     ; (6_);  (6_) ; |   ,    \        '      |       /
+    ;;   _,' ,.    ` `,   '    `-._           |   __//_________
+     ,;.=..`_..=.,' -'          ,''        _,--''------''''
+_pb__\,`"=,,,=="',___,,,-----'''----'_'_'_''-;''
+-----------------------''''''\ \'''''   )   /'
+                              `\`,,,___/__/'_____,
+                                `--,,,--,-,'''\
+                               __,,-' /'       `
+                             /'_,,--''
+                            | (
+                             `'
